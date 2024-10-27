@@ -1,5 +1,5 @@
 # Necrorust
-Necrorust is a simple (albeit poorly writen) tui application in rust that is designed to simplify the mage hand press's [Necromancer Class](https://magehandpress.com/2022/09/necromancer-base-class.html) specifically the Thrall mechanic
+Necrorust is a simple (albeit poorly written) tui application in rust that is designed to simplify the mage hand press's [Necromancer Class](https://magehandpress.com/2022/09/necromancer-base-class.html) specifically the Thrall mechanic
 
 ## Features
 - Minimal TUI interface
