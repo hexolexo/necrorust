@@ -10,15 +10,18 @@ Necrorust is a simple (albeit poorly written) tui application in rust that is de
 1. Install [Rust](https://www.rust-lang.org/tools/install)
 2. Clone repository
 3. Copy `config/necrorust` to your systems config directory
+
 **Linux/MacOS:** `~/.config/necrorust`
+
 **Windows:** `C:\Users\[Username]\AppData` or `%APPDATA%`
-4. Use cargo to install to your path
+
+5. Use cargo to install to your path
 ```bash
 cargo install --path .
 ```
 Now you can run necrorust from the terminal anywhere
 
-5. if that doesn't work you can just use `cargo run`
+5. (ALTERNATIVE) if that doesn't work you can just use `cargo run`
 
 ## Configuration
 1. Find your systems config directory
