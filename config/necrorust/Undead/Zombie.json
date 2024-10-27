@@ -1,0 +1,9 @@
+{
+  "hp": 22,
+  "ac": 8,
+  "cr": 1,
+  "name": "Zombie",
+  "hit": 3,
+  "damage": [1, 6, 1],
+  "hit_dice": [3, 8, 9]
+} 

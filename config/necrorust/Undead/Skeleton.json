@@ -1,0 +1,9 @@
+{
+  "hp": 13,
+  "ac": 13,
+  "cr": 1,
+  "name": "Skeleton",
+  "hit": 4,
+  "damage": [1, 6, 2],
+  "hit_dice": [2, 8, 4]
+} 

@@ -1,0 +1,9 @@
+{
+  "hp": 40,
+  "ac": 17,
+  "cr": 8,
+  "name": "Visage",
+  "hit": 5,
+  "damage": [5, 4, 3],
+  "hit_dice": [9, 8, 0]
+} 

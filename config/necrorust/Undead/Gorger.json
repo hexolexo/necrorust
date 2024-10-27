@@ -1,0 +1,9 @@
+{
+  "hp": 36,
+  "ac": 8,
+  "cr": 4,
+  "name": "Gorger",
+  "hit": 5,
+  "damage": [2, 8, 3],
+  "hit_dice": [8, 8, 0]
+} 
