@@ -24,7 +24,9 @@ Now you can run necrorust from the terminal anywhere
 1. Find your systems config directory
 2. Copy a template and give it a unique name
 3. Change the stats of the undead in the file
+
 Example config file
+
 ```json
 {
   "hp": 22,
