@@ -15,6 +15,8 @@ Necrorust is a simple (albeit poorly written) tui application in rust that is de
 
 **Windows:** `C:\Users\[Username]\AppData` or `%APPDATA%`
 
+4. Go into program directory
+
 5. Use cargo to install to your path
 ```bash
 cargo install --path .
