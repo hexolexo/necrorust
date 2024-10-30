@@ -13,7 +13,7 @@ Necrorust is a simple (albeit poorly written) tui application in rust that is de
 
 **Linux/MacOS:** `~/.config/necrorust`
 
-**Windows:** `C:\Users\[Username]\AppData` or `%APPDATA%`
+**Windows:** `C:\Users\[Username]\AppData\necrorust` or `%APPDATA%\necrorust`
 
 4. Go into program directory
 
@@ -28,7 +28,7 @@ Now you can run necrorust from the terminal anywhere
 ## Configuration
 1. Find your systems config directory
 2. Copy a template and give it a unique name
-3. Change the stats of the undead in the file
+3. Change the stats of the summon in the file
 
 Example config file
 
@@ -43,5 +43,7 @@ Example config file
   "hit_dice": [3, 8, 9]
 } 
 ```
-
+Where CR is equal to The Monster manual CR*4
+Name is the displayed name while the program is running
+Damage and Hit_dice is [Number of dice, Value of Dice, Modifier]
 
