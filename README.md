@@ -44,7 +44,7 @@ Example config file
 } 
 ```
 
-Where CR is equal to The Monster manual CR*4
+Where CR is equal to The Monster manual CR x 4
 
 Name is the displayed name while the program is running
 
